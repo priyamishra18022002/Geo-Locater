@@ -1,1 +1,1 @@
-# Geo-Locater
+# GeoLocator
